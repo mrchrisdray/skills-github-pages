@@ -1,4 +1,4 @@
 ---
-Welcome to my test blog 📄
+title: Welcome to my test blog 📄
 ---
 
